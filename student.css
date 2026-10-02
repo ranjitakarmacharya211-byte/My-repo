@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    background-color: pink;
+}
+h2{
+    color: purple;
+    font-family: cursive;
+}
+h3{
+    color: plum;
+    font-family: cursive;
+
+}
+h4{
+    color:brown;
+    font-family: cursive;
+}
+.paragraph {
+    text-align: justify;
+    font-weight: bold;
+    color: grey;
+    background-color: brown;
+
+}

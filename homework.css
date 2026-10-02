@@ -1,0 +1,23 @@
+div {
+            border: 2px solid brown;
+            padding: 20px;
+            margin: 10px;
+            height: 100px;
+            width: 300px;
+            text-align:center
+        }
+
+        /* Class selector*/
+        .second {
+            background-color: orange;
+            color: purple;
+            text-align: center;
+        }
+
+        /* ID selector*/
+        #third {
+            background-color: aqua;
+            color: green;
+            font-size: 20px;
+            text-align: center;
+        }

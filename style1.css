@@ -1,0 +1,16 @@
+h1 {
+    color: orange;
+    font-size: 30px;
+    text-align: center;
+    font-family: cursive;
+}
+
+p {
+    color: black;
+    background-color: aqua;
+    border: 5px dashed pink;
+}
+
+.skills {
+    color: green;
+}
